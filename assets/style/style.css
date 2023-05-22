@@ -364,7 +364,8 @@ img:hover {
 
     /* Header */
     .menu {
-        height: 217px;
+        padding: .7rem 0;
+        height: auto;
     }
 
     .menu__titulo {
