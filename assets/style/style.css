@@ -10,7 +10,6 @@
     --verde: #56B78C;
     --cinza-claro: #D9D9D9;
     --cinza-escuro: #959595;
-    --cor-borda: #333333;
 
     /*fontes*/
     --fonte-primaria: 'Work Sans', sans-serif;
@@ -20,7 +19,6 @@
 body {
     font-family: var(--fonte-primaria);
     height: 100vh;
-
 }
 
 /*Estilos compartilhados*/
@@ -366,8 +364,7 @@ img:hover {
 
     /* Header */
     .menu {
-        padding: .7rem 0;
-        height: auto;
+        height: 217px;
     }
 
     .menu__titulo {
